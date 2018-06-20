@@ -1,5 +1,5 @@
 
-## This project has been merged into the [Zalando-Incubator](/zalando-incubator/new-project) and will be archieved. 
+## This project has been merged into the [Zalando-Incubator](https://github.com/zalando-incubator/new-project) and will be archieved. 
 
 # Project Boilerplate
 
