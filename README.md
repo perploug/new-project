@@ -1,3 +1,6 @@
+
+## This project has been merged into the [Zalando-Incubator](/zalando-incubator/new-project) and will be archieved. 
+
 # Project Boilerplate
 
 This project contains a template to use when creating a new project. It comes with all the standard files which there is expected to be in an open source project on Github. 
